@@ -1,4 +1,3 @@
-// src/main/java/Models/Editor.java
 package Models;
 
 import java.util.ArrayList;

@@ -1,4 +1,3 @@
-// src/main/java/Models/Administrador.java
 package Models;
 
 public class Administrador extends Usuario {

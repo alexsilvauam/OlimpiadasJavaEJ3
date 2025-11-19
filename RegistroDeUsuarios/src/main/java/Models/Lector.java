@@ -1,4 +1,3 @@
-// src/main/java/Models/Lector.java
 package Models;
 
 import java.util.Collections;
